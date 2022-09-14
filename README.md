@@ -1,7 +1,5 @@
 # Design Patterns
 
----
-
 Documenting studies about design patterns using the Python
 
 The material references used in my studies, were:
