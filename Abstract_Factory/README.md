@@ -2,7 +2,7 @@
 
 > Intent: It's a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
 
-![Analogy photo](/assets/im-1.png)
+![Analogy photo](assets/im-1.png)
 
 ## When to use Abstract Facotry Pattern?
 
