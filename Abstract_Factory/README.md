@@ -2,7 +2,9 @@
 
 > Intent: It's a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
 
-![Analogy photo](/assets/im-1.png)
+<p align="center">
+  <img src="assets/im-1.png" />
+</p>
 
 ## When to use Abstract Facotry Pattern?
 
@@ -13,7 +15,9 @@
 
 ## UML Diagram
 
-![Abstract Factory Diagram](/assets/diagram-1.png "UML Diagram 1")
+<p align="center">
+  <img src="assets/diagram-1.png" />
+</p>
 
 ## Classes
 
